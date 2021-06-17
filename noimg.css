@@ -1,0 +1,42 @@
+
+
+h1 {
+    color:#800505;
+    font-size: 70px;
+    text-align: center;
+}
+h3{
+    color:rgb(128, 5, 5);
+    font-size: 40px;
+    text-align: center;
+
+}
+iframe {
+    background-color: rgba(148, 6, 6. 1);
+    background-image: none;
+    object-position: center;
+    margin-left: 50%;
+    height: 600px;
+    width: 800px;
+    border: none;
+}
+
+button{
+    background-color: rgba(77, 4, 4, 0.5);
+    border: none;
+    color:#000000;
+    padding: 12px 26px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+
+    font-size: 18px
+}
+
+p{
+    background-color: rgba(148, 6, 6. 0.1);
+    color:rgb(77, 4, 4);    
+    font-size: 20px;
+    text-align: center;
+    font-family:fantasy;
+}
